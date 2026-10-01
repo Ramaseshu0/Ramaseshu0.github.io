@@ -249,11 +249,11 @@ async function loadExperience() {
                     <div class="timeline-content">
                         <div class="experience-header">
                             <div class="experience-brand">
-                                <div class="company-logo" aria-hidden="true">
+                                <div class="company-logo${exp.logo ? '' : ' logo-fallback'}">
                                     ${exp.logo ? `
-                                        <img src="${exp.logo}" alt="" loading="lazy" onerror="this.parentElement.classList.add('logo-fallback'); this.remove();">
+                                        <img src="${exp.logo}" alt="${exp.company} logo" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('logo-fallback'); this.remove();">
                                     ` : ''}
-                                    <span>${exp.company.split(' ').map(word => word[0]).join('').slice(0, 2)}</span>
+                                    <span aria-hidden="true">${exp.company.split(' ').filter(Boolean).map(word => word[0]).join('').slice(0, 2)}</span>
                                 </div>
                                 <div>
                                     <h3 class="experience-title">${exp.title}</h3>
@@ -339,7 +339,10 @@ async function loadProjects() {
         if (projectsGrid && data.projects) {
             projectsGrid.innerHTML = data.projects.map((project, index) => `
                 <div class="project-card" style="--project-color: ${project.color}">
-                    <div class="project-visual">
+                    <div class="project-visual${project.image ? ' has-image' : ''}">
+                        ${project.image ? `
+                            <img class="project-thumb" src="${project.image}" alt="${project.title} thumbnail" loading="lazy" decoding="async" onerror="this.parentElement.classList.remove('has-image'); this.remove();">
+                        ` : ''}
                         <div class="project-icon" style="background: ${project.color}">
                             <i class="${project.icon}"></i>
                         </div>
