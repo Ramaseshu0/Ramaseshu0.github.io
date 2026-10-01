@@ -1,0 +1,40 @@
+{
+  "sectionTitle": "About",
+  "subtitle": "A closer look at my background, how I work, and the results I deliver.",
+  "image": "",
+  "paragraphs": [
+    "Data Engineer with 4+ years of experience building enterprise data pipelines, cloud-based ETL/ELT workflows, data warehouses, and analytical data platforms. Hands-on experience with Python, SQL, AWS, Snowflake, Apache Spark, PySpark, Informatica PowerCenter/IICS, Oracle, Teradata, Airflow, and AutoSys.",
+    "Experienced in data ingestion, batch processing, distributed data processing, data transformation, data quality, data reconciliation, data modeling, pipeline orchestration, production troubleshooting, and SQL optimization."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-briefcase",
+      "value": "5+",
+      "label": "Years Experience",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "2",
+      "label": "Projects",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-building",
+      "value": "2",
+      "label": "Companies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "98+",
+      "label": "Technologies",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Get In Touch",
+    "href": "mailto:pramaseshu@outlook.com",
+    "icon": "fas fa-envelope"
+  }
+}

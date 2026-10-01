@@ -1,0 +1,57 @@
+{
+  "sectionTitle": "Education",
+  "subtitle": "Academic foundation supporting my professional work.",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "M.S. Engineering Science in Data Science",
+      "school": "University at Buffalo, Buffalo, NY, USA",
+      "institution": "University at Buffalo, Buffalo, NY, USA",
+      "period": "Jan 2025 – May 2026",
+      "details": "",
+      "description": "",
+      "icon": "fas fa-graduation-cap",
+      "color": "#2FC4B2"
+    },
+    {
+      "degree": "B.Tech in Electronics & Communication Engineering",
+      "school": "Amrita University, India",
+      "institution": "Amrita University, India",
+      "period": "Aug 2017 – May 2021",
+      "details": "",
+      "description": "",
+      "icon": "fas fa-university",
+      "color": "#F2C14E"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Microsoft Certified: Azure Databricks Data Engineer Associate",
+      "issuer": "Microsoft",
+      "date": "Aug 2026",
+      "icon": "fas fa-certificate",
+      "color": "#FF6B6B"
+    },
+    {
+      "title": "Microsoft Certified: Power BI Data Analyst Associate",
+      "issuer": "Microsoft",
+      "date": "Jul 2026",
+      "icon": "fas fa-certificate",
+      "color": "#4ECDC4"
+    },
+    {
+      "title": "Informatica MDM Certification",
+      "issuer": "Informatica",
+      "date": "Aug 2023",
+      "icon": "fas fa-certificate",
+      "color": "#FFE66D"
+    },
+    {
+      "title": "Reltio Configuration Specialist Certification",
+      "issuer": "Reltio",
+      "date": "Dec 2021",
+      "icon": "fas fa-certificate",
+      "color": "#A8DADC"
+    }
+  ]
+}

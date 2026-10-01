@@ -1,0 +1,66 @@
+{
+  "sectionTitle": "Professional Experience",
+  "subtitle": "Roles, responsibilities, and the impact delivered along the way.",
+  "experiences": [
+    {
+      "title": "Data Engineer",
+      "company": "Walgreens",
+      "logo": "",
+      "period": "May 2026 – Present",
+      "location": "",
+      "description": "Develop and optimize enterprise ETL/ELT pipelines using Python, SQL, AWS, and Snowflake to support scalable data ingestion, transformation, and analytical workloads. Engineer distributed data-processing workflows using Apache Spark and PySpark, optimizing transformation logic and execution patterns for large-scale datasets. Design and optimize Snowflake data warehouses, tables, views, and SQL transformations, applying query tuning and workload analysis to improve analytical query performance by 20%. Develop cloud-based data integration workflows using AWS S3 and Snowflake, supporting data ingestion, transformation, storage, and movement across enterprise environments. Orchestrate 100+ production batch workflows using Airflow and AutoSys, managing scheduling, dependencies, failure handling, and monitoring. Implement data validation, reconciliation, profiling, and data-quality controls across source, staging, and target datasets to improve downstream data reliability. Troubleshoot production pipeline failures and data discrepancies using SQL, Python, log analysis, and root-cause analysis, improving pipeline stability by 15%. Partner with business and technical teams to define data requirements, transformation logic, pipeline workflows, and analytical datasets for downstream reporting and data consumption.",
+      "responsibilities": [
+        "Develop and optimize enterprise ETL/ELT pipelines using Python, SQL, AWS, and Snowflake to support scalable data ingestion, transformation, and analytical workloads",
+        "Engineer distributed data-processing workflows using Apache Spark and PySpark, optimizing transformation logic and execution patterns for large-scale datasets",
+        "Design and optimize Snowflake data warehouses, tables, views, and SQL transformations, applying query tuning and workload analysis to improve analytical query performance by 20%",
+        "Develop cloud-based data integration workflows using AWS S3 and Snowflake, supporting data ingestion, transformation, storage, and movement across enterprise environments",
+        "Orchestrate 100+ production batch workflows using Airflow and AutoSys, managing scheduling, dependencies, failure handling, and monitoring",
+        "Implement data validation, reconciliation, profiling, and data-quality controls across source, staging, and target datasets to improve downstream data reliability",
+        "Troubleshoot production pipeline failures and data discrepancies using SQL, Python, log analysis, and root-cause analysis, improving pipeline stability by 15%",
+        "Partner with business and technical teams to define data requirements, transformation logic, pipeline workflows, and analytical datasets for downstream reporting and data consumption"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "AWS",
+        "Snowflake",
+        "Apache Spark",
+        "PySpark",
+        "AWS S3",
+        "Airflow",
+        "AutoSys"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Cognizant Technology Solutions",
+      "logo": "",
+      "period": "Apr 2021– Jan 2025",
+      "location": "",
+      "description": "Developed and maintained enterprise ETL/ELT workflows using Informatica PowerCenter and IICS, processing 5M+ records monthly across Oracle and downstream analytical environments. Integrated data from Oracle, MySQL, PostgreSQL, Teradata, and Snowflake, developing source-to-target mappings, transformation logic, and standardized integration workflows. Implemented Reltio MDM integration and data-validation processes across 9M+ mastered records, improving consistency across downstream systems. Developed complex SQL transformations using CTEs, window functions, joins, indexing, and reconciliation logic to analyze 50K+ daily records and identify operational-to-analytical discrepancies. Managed and monitored 100+ AutoSys batch workflows, handling scheduling, dependencies, execution failures, production issues, and timely data delivery. Supported Snowflake, Oracle, and Teradata data warehouse workloads, performing data validation, transformation, troubleshooting, and SQL query optimization. Collaborated with business and technical stakeholders to translate requirements into ETL mappings, transformation rules, validation logic, and integration workflows. Supported data analytics initiatives using Python and SQL for data preparation, analysis, and structured dataset development for reporting and downstream analytical use cases.",
+      "responsibilities": [
+        "Developed and maintained enterprise ETL/ELT workflows using Informatica PowerCenter and IICS, processing 5M+ records monthly across Oracle and downstream analytical environments",
+        "Integrated data from Oracle, MySQL, PostgreSQL, Teradata, and Snowflake, developing source-to-target mappings, transformation logic, and standardized integration workflows",
+        "Implemented Reltio MDM integration and data-validation processes across 9M+ mastered records, improving consistency across downstream systems",
+        "Developed complex SQL transformations using CTEs, window functions, joins, indexing, and reconciliation logic to analyze 50K+ daily records and identify operational-to-analytical discrepancies",
+        "Managed and monitored 100+ AutoSys batch workflows, handling scheduling, dependencies, execution failures, production issues, and timely data delivery",
+        "Supported Snowflake, Oracle, and Teradata data warehouse workloads, performing data validation, transformation, troubleshooting, and SQL query optimization",
+        "Collaborated with business and technical stakeholders to translate requirements into ETL mappings, transformation rules, validation logic, and integration workflows",
+        "Supported data analytics initiatives using Python and SQL for data preparation, analysis, and structured dataset development for reporting and downstream analytical use cases"
+      ],
+      "technologies": [
+        "Informatica PowerCenter",
+        "IICS",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "Teradata",
+        "Snowflake",
+        "Reltio MDM",
+        "SQL",
+        "AutoSys",
+        "Python"
+      ]
+    }
+  ]
+}

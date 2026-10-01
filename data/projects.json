@@ -1,0 +1,563 @@
+{
+  "sectionTitle": "Selected Projects",
+  "subtitle": "Work that shows structured thinking, clean execution, and real outcomes.",
+  "projects": [
+    {
+      "title": "TIDE-HF — Clinical Decision Support Platform for Congestive Heart Failure Management",
+      "description": "Built an end-to-end OLTP-to-OLAP healthcare data pipeline using Python, PostgreSQL, and dbt, automating cohort extraction across 546K+ clinical admissions, 60+ ICD codes, and 70+ laboratory analytes to produce a reproducible 137K-visit training dataset. Engineered 108 temporal features and trained 11 multi-label LightGBM models for clinical risk prediction, achieving 0.78–0.98 AUROC across hyperkalemia, AKI, and worsening-heart-failure prediction tasks. Developed a privacy-focused clinical decision-support application using FastAPI, Streamlit, ChromaDB, RAG, and MCP, integrating rule-based clinical recommendations and an XGBoost mortality-risk module with SHAP explainability. Implemented AWS S3-based cloud storage and data ingestion workflows to organize clinical datasets and support scalable processing across the analytics pipeline.",
+      "longDescription": "Built an end-to-end OLTP-to-OLAP healthcare data pipeline using Python, PostgreSQL, and dbt, automating cohort extraction across 546K+ clinical admissions, 60+ ICD codes, and 70+ laboratory analytes to produce a reproducible 137K-visit training dataset. Engineered 108 temporal features and trained 11 multi-label LightGBM models for clinical risk prediction, achieving 0.78–0.98 AUROC across hyperkalemia, AKI, and worsening-heart-failure prediction tasks. Developed a privacy-focused clinical decision-support application using FastAPI, Streamlit, ChromaDB, RAG, and MCP, integrating rule-based clinical recommendations and an XGBoost mortality-risk module with SHAP explainability. Implemented AWS S3-based cloud storage and data ingestion workflows to organize clinical datasets and support scalable processing across the analytics pipeline.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "LightGBM",
+        "FastAPI",
+        "ChromaDB",
+        "RAG",
+        "MCP",
+        "TypeScript",
+        "PostgreSQL",
+        "dbt",
+        "Streamlit",
+        "XGBoost",
+        "AWS S3"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "",
+      "featured": true,
+      "github": "",
+      "demo": "https://tide-hf.com/",
+      "links": {
+        "github": "",
+        "demo": "https://tide-hf.com/",
+        "live": "https://tide-hf.com/"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "E-Commerce Retail Analytics Database",
+      "description": "Built a Python/PostgreSQL data pipeline processing 100K+ orders and 3M geolocation records, implementing a normalized 3NF database model for structured retail analytics. Developed SQL transformations, joins, aggregations, and data validation logic to integrate order, customer, product, seller, and geolocation datasets into analytics-ready tables. Optimized SQL queries, indexes, and database structures, achieving 60% faster query execution and improving performance of analytical workloads.",
+      "longDescription": "Built a Python/PostgreSQL data pipeline processing 100K+ orders and 3M geolocation records, implementing a normalized 3NF database model for structured retail analytics. Developed SQL transformations, joins, aggregations, and data validation logic to integrate order, customer, product, seller, and geolocation datasets into analytics-ready tables. Optimized SQL queries, indexes, and database structures, achieving 60% faster query execution and improving performance of analytical workloads.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "PostgreSQL",
+        "SQL",
+        "Docker"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "",
+      "featured": true,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Healthcare-Executive-Dashboard",
+      "description": "The Healthcare Executive Dashboard is a full-stack analytics application designed to assist stakeholders in making data-driven decisions. It transitions raw hospital admission data into an interactive interface, allowing users to monitor revenue performance, patient demographics, and doctor workload without writing SQL.",
+      "longDescription": "The Healthcare Executive Dashboard is a full-stack analytics application designed to assist stakeholders in making data-driven decisions. It transitions raw hospital admission data into an interactive interface, allowing users to monitor revenue performance, patient demographics, and doctor workload without writing SQL.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "PLpgSQL",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/Ramaseshu0/Healthcare-Executive-Dashboard",
+      "demo": "https://github.com/Ramaseshu0/Healthcare-Executive-Dashboard",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/Healthcare-Executive-Dashboard",
+        "demo": "https://github.com/Ramaseshu0/Healthcare-Executive-Dashboard",
+        "live": "https://github.com/Ramaseshu0/Healthcare-Executive-Dashboard"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "TIDE-HF",
+      "description": "AI-powered heart failure treatment optimization using synthetic EHR data and clinical decision rules.",
+      "longDescription": "AI-powered heart failure treatment optimization using synthetic EHR data and clinical decision rules.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/TIDE-HF",
+      "demo": "https://github.com/Ramaseshu0/TIDE-HF",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/TIDE-HF",
+        "demo": "https://github.com/Ramaseshu0/TIDE-HF",
+        "live": "https://github.com/Ramaseshu0/TIDE-HF"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Bookshop-360-Business-Intelligence-Tableau-Project",
+      "description": "The goal is to transform raw operational data into strategic, data-driven decisions.",
+      "longDescription": "The goal is to transform raw operational data into strategic, data-driven decisions.",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/Bookshop-360-Business-Intelligence-Tableau-Project",
+      "demo": "https://github.com/Ramaseshu0/Bookshop-360-Business-Intelligence-Tableau-Project",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/Bookshop-360-Business-Intelligence-Tableau-Project",
+        "demo": "https://github.com/Ramaseshu0/Bookshop-360-Business-Intelligence-Tableau-Project",
+        "live": "https://github.com/Ramaseshu0/Bookshop-360-Business-Intelligence-Tableau-Project"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "sql-datawarehouse-project",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Software Development",
+      "technologies": [
+        "TSQL"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#2FC4B2",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/sql-datawarehouse-project",
+      "demo": "https://github.com/Ramaseshu0/sql-datawarehouse-project",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/sql-datawarehouse-project",
+        "demo": "https://github.com/Ramaseshu0/sql-datawarehouse-project",
+        "live": "https://github.com/Ramaseshu0/sql-datawarehouse-project"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "bookstoreapp-distributed-application",
+      "description": "Personal development project using industry best practices",
+      "longDescription": "Personal development project using industry best practices",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "JavaScript",
+        "Dockerfile",
+        "HTML",
+        "CSS"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#F2C14E",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/bookstoreapp-distributed-application",
+      "demo": "https://github.com/Ramaseshu0/bookstoreapp-distributed-application",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/bookstoreapp-distributed-application",
+        "demo": "https://github.com/Ramaseshu0/bookstoreapp-distributed-application",
+        "live": "https://github.com/Ramaseshu0/bookstoreapp-distributed-application"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
+      "demo": "https://github.com/Ramaseshu0/build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
+        "demo": "https://github.com/Ramaseshu0/build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
+        "live": "https://github.com/Ramaseshu0/build-a-recommendation-engine-example-with-spring-boot-and-aerospike"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "webhook-relay",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Java",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/webhook-relay",
+      "demo": "https://github.com/Ramaseshu0/webhook-relay",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/webhook-relay",
+        "demo": "https://github.com/Ramaseshu0/webhook-relay",
+        "live": "https://github.com/Ramaseshu0/webhook-relay"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "spring-boot-microservices",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/spring-boot-microservices",
+      "demo": "https://github.com/Ramaseshu0/spring-boot-microservices",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/spring-boot-microservices",
+        "demo": "https://github.com/Ramaseshu0/spring-boot-microservices",
+        "live": "https://github.com/Ramaseshu0/spring-boot-microservices"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "java_chat_system",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/java_chat_system",
+      "demo": "https://github.com/Ramaseshu0/java_chat_system",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/java_chat_system",
+        "demo": "https://github.com/Ramaseshu0/java_chat_system",
+        "live": "https://github.com/Ramaseshu0/java_chat_system"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "spring-boot-microservices-banking-application",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Software Development",
+      "technologies": [
+        "Java",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/spring-boot-microservices-banking-application",
+      "demo": "https://github.com/Ramaseshu0/spring-boot-microservices-banking-application",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/spring-boot-microservices-banking-application",
+        "demo": "https://github.com/Ramaseshu0/spring-boot-microservices-banking-application",
+        "live": "https://github.com/Ramaseshu0/spring-boot-microservices-banking-application"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "description": "Portfolio project showcasing development capabilities",
+      "longDescription": "Portfolio project showcasing development capabilities",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "JavaScript",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#2FC4B2",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "demo": "https://github.com/Ramaseshu0/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+        "demo": "https://github.com/Ramaseshu0/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+        "live": "https://github.com/Ramaseshu0/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Shell",
+        "Ruby"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#F2C14E",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "demo": "https://github.com/Ramaseshu0/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+        "demo": "https://github.com/Ramaseshu0/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+        "live": "https://github.com/Ramaseshu0/centralized-asset-management-system-with-compliance-self-audit-dashboard"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "ecommerce-microservice-backend-app",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "XML",
+        "YAML",
+        "SQL",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/ecommerce-microservice-backend-app",
+      "demo": "https://github.com/Ramaseshu0/ecommerce-microservice-backend-app",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/ecommerce-microservice-backend-app",
+        "demo": "https://github.com/Ramaseshu0/ecommerce-microservice-backend-app",
+        "live": "https://github.com/Ramaseshu0/ecommerce-microservice-backend-app"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Heart-Disease-Risk-Prediction",
+      "description": "This project seeks to create a data-driven base with a capacity to predict the probability of a heart condition using structured clinical and lifestyle data including age, blood pressure, cholesterol, BMI, smoking, and others.  In effect, by undertaking data cleaning and exploratory analysis here we get this dataset ready for predictive modeling",
+      "longDescription": "This project seeks to create a data-driven base with a capacity to predict the probability of a heart condition using structured clinical and lifestyle data including age, blood pressure, cholesterol, BMI, smoking, and others.  In effect, by undertaking data cleaning and exploratory analysis here we get this dataset ready for predictive modeling",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/Heart-Disease-Risk-Prediction",
+      "demo": "https://github.com/Ramaseshu0/Heart-Disease-Risk-Prediction",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/Heart-Disease-Risk-Prediction",
+        "demo": "https://github.com/Ramaseshu0/Heart-Disease-Risk-Prediction",
+        "live": "https://github.com/Ramaseshu0/Heart-Disease-Risk-Prediction"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Early-Detection-of-Type-2-Diabetes",
+      "description": "The Type 2 Diabetes (T2D) is a growing global health issue. Many people remain undiagnosed due to the absence of early symptoms. Delayed diagnosis can lead to severe complications. Our project aimed to use machine learning (ML) techniques to predict T2D early using the BRFSS2015 survey dataset.",
+      "longDescription": "The Type 2 Diabetes (T2D) is a growing global health issue. Many people remain undiagnosed due to the absence of early symptoms. Delayed diagnosis can lead to severe complications. Our project aimed to use machine learning (ML) techniques to predict T2D early using the BRFSS2015 survey dataset.",
+      "category": "Data Science",
+      "technologies": [
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FFE66D",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/Early-Detection-of-Type-2-Diabetes",
+      "demo": "https://github.com/Ramaseshu0/Early-Detection-of-Type-2-Diabetes",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/Early-Detection-of-Type-2-Diabetes",
+        "demo": "https://github.com/Ramaseshu0/Early-Detection-of-Type-2-Diabetes",
+        "live": "https://github.com/Ramaseshu0/Early-Detection-of-Type-2-Diabetes"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "longDescription": "Generated GitHub contribution history",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/contribution-history",
+      "demo": "https://github.com/Ramaseshu0/contribution-history",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/contribution-history",
+        "demo": "https://github.com/Ramaseshu0/contribution-history",
+        "live": "https://github.com/Ramaseshu0/contribution-history"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Financial-Performance-Analysis-Tableau",
+      "description": "This project analyzes corporate financial performance using data from the Income Statement, Balance Sheet, Cash Flow Statement, and Stock Market Prices.  The objective is to understand how changes in financial fundamentals (cause) influence market valuation and stock price movements (effect).",
+      "longDescription": "This project analyzes corporate financial performance using data from the Income Statement, Balance Sheet, Cash Flow Statement, and Stock Market Prices.  The objective is to understand how changes in financial fundamentals (cause) influence market valuation and stock price movements (effect).",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/Financial-Performance-Analysis-Tableau",
+      "demo": "https://github.com/Ramaseshu0/Financial-Performance-Analysis-Tableau",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/Financial-Performance-Analysis-Tableau",
+        "demo": "https://github.com/Ramaseshu0/Financial-Performance-Analysis-Tableau",
+        "live": "https://github.com/Ramaseshu0/Financial-Performance-Analysis-Tableau"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Smartphone-Retail-Sales-Analysis",
+      "description": "The purpose of this project is to analyse smartphone retail sales data to uncover trends in product performance, customer behaviour, and seasonal patterns to guide smarter inventory and marketing decisions.",
+      "longDescription": "The purpose of this project is to analyse smartphone retail sales data to uncover trends in product performance, customer behaviour, and seasonal patterns to guide smarter inventory and marketing decisions.",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#2FC4B2",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/Smartphone-Retail-Sales-Analysis",
+      "demo": "https://github.com/Ramaseshu0/Smartphone-Retail-Sales-Analysis",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/Smartphone-Retail-Sales-Analysis",
+        "demo": "https://github.com/Ramaseshu0/Smartphone-Retail-Sales-Analysis",
+        "live": "https://github.com/Ramaseshu0/Smartphone-Retail-Sales-Analysis"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Data-Analysis-of-US-Student-Loans",
+      "description": "This Project captures the essence of exploring and understanding the trends, distribution, and impact of student loans across various institutions in the United States.",
+      "longDescription": "This Project captures the essence of exploring and understanding the trends, distribution, and impact of student loans across various institutions in the United States.",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#F2C14E",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/Data-Analysis-of-US-Student-Loans",
+      "demo": "https://github.com/Ramaseshu0/Data-Analysis-of-US-Student-Loans",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/Data-Analysis-of-US-Student-Loans",
+        "demo": "https://github.com/Ramaseshu0/Data-Analysis-of-US-Student-Loans",
+        "live": "https://github.com/Ramaseshu0/Data-Analysis-of-US-Student-Loans"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "portfolio-website",
+      "description": "GitHub repository: portfolio-website",
+      "longDescription": "GitHub repository: portfolio-website",
+      "category": "Data Science",
+      "technologies": [
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "",
+      "featured": false,
+      "github": "https://github.com/Ramaseshu0/portfolio-website",
+      "demo": "https://github.com/Ramaseshu0/portfolio-website",
+      "links": {
+        "github": "https://github.com/Ramaseshu0/portfolio-website",
+        "demo": "https://github.com/Ramaseshu0/portfolio-website",
+        "live": "https://github.com/Ramaseshu0/portfolio-website"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}

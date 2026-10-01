@@ -1,0 +1,43 @@
+{
+  "copyright": {
+    "text": "© 2026 Chinmaya Sri Rama Seshu Pasupuleti. All rights reserved.",
+    "year": "2026",
+    "name": "Chinmaya Sri Rama Seshu Pasupuleti"
+  },
+  "tagline": "Data Engineer",
+  "links": [
+    {
+      "text": "Email",
+      "href": "mailto:pramaseshu@outlook.com"
+    },
+    {
+      "text": "GitHub",
+      "href": "https://github.com/Ramaseshu0"
+    },
+    {
+      "text": "LinkedIn",
+      "href": "https://www.linkedin.com/in/rama-seshu/"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Ramaseshu0",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rama-seshu/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:pramaseshu@outlook.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "backToTop": {
+    "text": "Back to Top",
+    "icon": "fas fa-chevron-up"
+  }
+}

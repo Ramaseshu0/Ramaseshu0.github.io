@@ -1,0 +1,25 @@
+{
+  "title": "Chinmaya Sri Rama Seshu Pasupuleti | Data Engineer",
+  "description": "Data Engineer with 4+ years of experience building enterprise data pipelines, cloud-based ETL/ELT workflows, data warehouses, and analytical data platforms. Hands-on experience with Python, SQL, AW...",
+  "keywords": "Chinmaya Sri Rama Seshu Pasupuleti, Data Engineer, Portfolio, Python, SQL, Java, R, Shell Scripting, TypeScript, Apache Spark, PySpark",
+  "author": "Chinmaya Sri Rama Seshu Pasupuleti",
+  "siteName": "Chinmaya Sri Rama Seshu Pasupuleti",
+  "siteTitle": "Chinmaya Sri Rama Seshu Pasupuleti | Data Engineer",
+  "meta": {
+    "title": "Chinmaya Sri Rama Seshu Pasupuleti | Data Engineer",
+    "description": "Data Engineer with 4+ years of experience building enterprise data pipelines, cloud-based ETL/ELT workflows, data warehouses, and analytical data platforms. Hands-on experience with Python, SQL, AW...",
+    "author": "Chinmaya Sri Rama Seshu Pasupuleti",
+    "keywords": "Chinmaya Sri Rama Seshu Pasupuleti, Data Engineer, Portfolio, Python, SQL, Java, R, Shell Scripting, TypeScript, Apache Spark, PySpark"
+  },
+  "branding": {
+    "name": "Chinmaya Sri Rama Seshu Pasupuleti",
+    "tagline": "Data Engineer",
+    "logo": "/logo.png"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "enableParticles": true,
+    "navbarScrollEffect": true
+  }
+}

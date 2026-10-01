@@ -1,0 +1,64 @@
+{
+  "greeting": "Portfolio",
+  "name": "Chinmaya Sri Rama Seshu Pasupuleti",
+  "title": "Data Engineer",
+  "summary": "Data Engineer with 4+ years of experience building enterprise data pipelines, cloud-based ETL/ELT workflows, data warehouses, and analytical data platforms. Hands-on experience with Python, SQL, AWS, Snowflake, Apache Spark, PySpark, Informatica PowerCenter/IICS, Oracle, Teradata, Airflow, and AutoSys. Experienced in data ingestion, batch processing, distributed data processing, data transformation, data quality, data reconciliation, data modeling, pipeline orchestration, production troubleshooting, and SQL optimization.",
+  "avatarUrl": "",
+  "tagline": "Python / SQL / Java / R / Shell Scripting",
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "text": "5+ Years Experience",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "text": "2 Projects Delivered",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "text": "Python, SQL, Java",
+      "color": "#FFE66D"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "Contact Me",
+        "href": "#contact",
+        "type": "primary",
+        "external": false,
+        "icon": "fas fa-envelope"
+      },
+      {
+        "text": "Explore Projects",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false,
+        "icon": "fas fa-chart-line"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Ramaseshu0",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rama-seshu/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:pramaseshu@outlook.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "scrollIndicator": {
+    "text": "Scroll to explore",
+    "icon": "fas fa-chevron-down"
+  }
+}
