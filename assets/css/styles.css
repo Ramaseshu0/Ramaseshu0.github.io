@@ -596,37 +596,6 @@ textarea:focus-visible {
     pointer-events: none;
 }
 
-.hero-proof {
-    position: absolute;
-    right: 28px;
-    bottom: 32px;
-    z-index: 3;
-    width: min(78%, 310px);
-    padding: var(--spacing-md);
-    border: 1px solid rgba(255, 255, 255, 0.16);
-    border-radius: var(--radius-xl);
-    background: rgba(8, 13, 16, 0.72);
-    backdrop-filter: blur(18px);
-    box-shadow: var(--shadow-lg);
-}
-
-.proof-kicker {
-    display: block;
-    margin-bottom: 0.35rem;
-    color: var(--color-accent-3);
-    font-size: var(--font-size-xs);
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-}
-
-.hero-proof strong {
-    display: block;
-    color: var(--color-text-primary);
-    font-size: var(--font-size-sm);
-    line-height: 1.45;
-}
-
 .scroll-indicator i {
     font-size: var(--font-size-md);
 }
@@ -1862,13 +1831,6 @@ textarea:focus-visible {
     .portrait-frame::after {
         border-radius: 16px;
         inset: 9px;
-    }
-
-    .hero-proof {
-        right: 14px;
-        bottom: 16px;
-        width: calc(100% - 28px);
-        padding: var(--spacing-sm);
     }
 
     .btn {
